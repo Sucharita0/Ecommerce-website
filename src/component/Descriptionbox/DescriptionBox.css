@@ -1,0 +1,33 @@
+.descriptionbox{
+    margin-top: 60px;
+}
+.desc-navigator{
+    display: flex;
+    
+    
+    
+
+
+
+}
+.desc-navbox{
+    width: 171px;
+    height: 70px;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid gainsboro;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.desc-description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gainsboro;
+    font-size: 15px;
+
+    padding: 19px;
+    margin-bottom: 40px;
+    
+}

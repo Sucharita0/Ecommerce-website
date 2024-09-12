@@ -1,0 +1,45 @@
+
+.topper{
+    height: 70vh;
+    width: 65% ;
+    display: flex;
+    margin: auto;
+    margin-top: 80px;
+    background: linear-gradient(180deg, rgba(80, 228, 154, 0.005), rgba(235, 76, 217, 0.324) 60%);
+}
+.topper-left{
+    justify-content: center;
+    flex: 1;
+    margin-top: 50px;
+    margin-left: 60px;
+    padding-left: 7px;
+}
+.topper-left h1{
+    font-size: 50px;
+    font-weight: 600;
+} 
+.topper-left p{
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 5px;
+    padding: 5px;
+}
+.topper-left button{
+    width: 250px;
+    height: 60px;
+    border-radius: 30px;
+    border: none;
+    background-color: red;
+    margin-top: 20px;
+    padding: 5px;
+}
+.topper-right{
+    align-items: center;
+    flex: 1;
+    flex: end;
+
+} 
+.topper-right img{
+    width: 300px;
+    height: 380px;
+}
